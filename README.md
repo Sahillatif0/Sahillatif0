@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillatif0&label=Profile%20views&color=0e75b6&style=flat" alt="sahillatif0" /> </p>
 
-- 🌱 I’m currently learning **MERN, OOP**
+- 🌱 I’m currently learning **MERN, OOP, Raylib**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahillatif0](https://github.com/Sahillatif0)
 
-- 💬 Ask me about **MERN, C, Javascript**
+- 💬 Ask me about **MERN, C,C++, Javascript**
 
 - 📫 How to reach me **sahillatif072@gmail.com**
 
