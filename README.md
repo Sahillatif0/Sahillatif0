@@ -1,61 +1,107 @@
-<h1 align="center">Hi 👋, I'm Sahil Latif</h1>
-<h3 align="center">A Computer Science Enthusiast from Pakistan</h3>
+<!-- 👋 Hey, I'm Sahil -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillatif0&label=Profile%20views&color=0e75b6&style=flat" alt="sahillatif0" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Sahil Latif">
+</h1>
 
-- 🌱 I’m currently learning **MERN, DS**
+<p align="center">
+  <a href="https://github.com/sahillatif0"><img src="https://img.shields.io/github/followers/sahillatif0?color=00E5FF&logo=github&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/sahil-latif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sahillatif072@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+  <img src="https://img.shields.io/badge/Karachi-Pakistan-00E5FF?style=for-the-badge">
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sahillatif0](https://github.com/Sahillatif0)
+---
 
-- 💬 Ask me about **MERN, OOP, Raylib C, C++, Javascript**
+##  About Me
 
-- 📫 How to reach me **sahillatif072@gmail.com**
+```
+const developer = {
+  name  : "Sahil Latif",
+  role  : "Full Stack & AI Developer",
+  focus : "AI-powered Web & Mobile Applications",
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sahil-latif/](https://www.linkedin.com/in/sahil-latif/)
+  skills: ["JavaScript", "TypeScript",
+    "React", "Next.js", "React Native",
+    "Node.js", "Express.js"
+  ],
 
-###
+  ai_ml: [
+    "LangChain", "LangGraph",
+    "LLM Integration (Groq/OpenAI APIs)",
+    "AI Agents", "Automation Systems"
+  ],
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/sahil-latif/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+  backend: [
+    "Node.js",
+    "Express.js"
+    "REST APIs", "GraphQL",
+    "FastAPI", "Django"
+  ],
 
+  databases: [
+    "MongoDB", "PostgreSQL",
+    "MySQL",
+    "Oracle"
+  ],
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-</div>
+  devops: [
+    "Docker", "Vercel", "CI/CD"
+  ],
+  openTo  : "Work opportunities & collaborations"
+}
+```
 
-<h3 align="left">Stat's:</h3>
+---
+
+##  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,expressjs,kotlin,python,c,cpp,vite,vue,pug,ai,aws,mongodb,postgres,docker,git,tailwind,redux,zustand" />
+</p>
+
+---
+
+##  GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahillatif0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Sahillatif0&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahillatif0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
-<h3 align="left">Github Trophies:</h3>
-  <img src="https://github-profile-trophy.vercel.app?username=Sahillatif0&theme=darkhub&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahillatif0&theme=radical&row=1&column=6&no-frame=true">
+</p>
+
+---
+
+##  Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahillatif0&theme=radical&bg_color=0D1117&color=00E5FF&line=FF6B6B&point=00E5FF&area=true&hide_border=true">
+</p>
+
+---
+
+<p align="center">
+
+
+<p align="center">
+
+```diff
++ Building scalable web applications
++ Transforming ideas into digital reality
+- Stopping here
+```
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sahillatif0&color=00E5FF&style=for-the-badge&count=true" />
+</p>
