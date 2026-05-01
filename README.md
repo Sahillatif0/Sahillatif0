@@ -1,14 +1,14 @@
 <!-- 👋 Hey, I'm Sahil -->
 <div style="{"background-color": "black"}">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Sahil Latif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=000000center=true&vCenter=true&width=500&lines=Full+Stack+and+AI+Developer" alt="Sahil Latif">
 </h1>
-
 <p align="center">
-  <a href="https://github.com/sahillatif0"><img src="https://img.shields.io/github/followers/sahillatif0?color=00E5FF&logo=github&style=for-the-badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=sahillatif0&label=Profile%20views&color=0e75b6&style=flat" alt="sahillatif0" />
+  <a href="https://github.com/sahillatif0"><img src="https://img.shields.io/github/followers/sahillatif0?color=ADE5FF&logo=github&style=for-the-badge"></a>
   <a href="https://linkedin.com/in/sahil-latif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sahillatif072@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/Karachi-Pakistan-00E5FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Karachi-Pakistan-ADE5FF?style=for-the-badge">
 </p>
 
 ---
@@ -69,6 +69,7 @@ const developer = {
   <img src="https://streak-stats.demolab.com?user=Sahillatif0&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahillatif0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
 ---
 
 ## 🏆 Achievements
