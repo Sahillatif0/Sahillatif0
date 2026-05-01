@@ -1,5 +1,5 @@
 <!-- 👋 Hey, I'm Sahil -->
-
+<div style="{"background-color": "black"}">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Sahil Latif">
 </h1>
@@ -65,10 +65,10 @@ const developer = {
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahillatif0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=Sahillatif0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Sahillatif0&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahillatif0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
-
+</div>
 ---
 
 ## 🏆 Achievements
@@ -87,10 +87,7 @@ const developer = {
 
 ---
 
-<p align="center">
-
-
-<p align="center">
+<p align="center"
 
 ```diff
 + Building scalable web applications
@@ -105,3 +102,4 @@ const developer = {
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sahillatif0&color=00E5FF&style=for-the-badge&count=true" />
 </p>
+</div>
